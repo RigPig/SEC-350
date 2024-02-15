@@ -25,5 +25,5 @@ set service dns forwarding listen-address '172.16.50.2'
 set service dns forwarding listen-address '172.16.150.2'
 set service dns forwarding system
 set service ssh listen-address '0.0.0.0'
-set system host-name 'fw1-KEVIN'
+set system host-name 'fw1-kevin'
 set system name-server '10.0.17.2'
